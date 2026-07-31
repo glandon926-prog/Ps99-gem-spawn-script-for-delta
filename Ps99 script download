@@ -1,1 +1,1 @@
-Loadstring(game:httpget(‘https://raw.githubusercontent.com/glandon926-prog/Ps99-gem-spawn-script-for-delta/refs/heads/main/Test‘))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/glandon926-prog/Ps99-gem-spawn-script-for-delta/refs/heads/main/Test"))()
